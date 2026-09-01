@@ -16,7 +16,7 @@ You will configure **Amazon S3** for storage, set up **IAM permissions**, deploy
 **Reference Links:**
 - **Source Code (GitHub):** [AdaptiveBossAI-AWS-FCAJ](https://github.com/namnguyen2k3-dev/AdaptiveBossAI-AWS-FCAJ)
 - **Video Demo:** [YouTube](https://youtu.be/ON1f-oQaF00)
-- **Game Download:** *(To be updated)*
+- **Game Download:** [v1.0.0.zip](https://github.com/namnguyen2k3-dev/AdaptiveBossAI-AWS-FCAJ/archive/refs/tags/v1.0.0.zip)
 {{% /notice %}}
 
 ### Workshop Structure

@@ -16,7 +16,7 @@ Bạn sẽ được hướng dẫn cấu hình **Amazon S3** và **DynamoDB**, t
 **Đường dẫn tham khảo:**
 - **Source Code (GitHub):** [AdaptiveBossAI-AWS-FCAJ](https://github.com/namnguyen2k3-dev/AdaptiveBossAI-AWS-FCAJ)
 - **Video Demo:** [YouTube](https://youtu.be/ON1f-oQaF00)
-- **Tải Game:** *(Đang cập nhật)*
+- **Tải Game:** [v1.0.0.zip](https://github.com/namnguyen2k3-dev/AdaptiveBossAI-AWS-FCAJ/archive/refs/tags/v1.0.0.zip)
 {{% /notice %}}
 
 ### Cấu trúc bài thực hành
